@@ -12,8 +12,7 @@ My name is Richard Ignizio. I have the following qualities:
 
 
  I workout at [Paradigm Performaance](http://www.paradigm-fitness.com) and belong to the Paradigm peformance Weightlifting Club
- ___
-
+ 
 ## Personal Records
 ### Lifts
 
@@ -35,6 +34,7 @@ My name is Richard Ignizio. I have the following qualities:
 
 
 ### Open Wods
+
 | WOD  | Time/Reps  | Date | 
 | ----- | ------ | ----- |  
 | 17.5 | 16.02  | | 
