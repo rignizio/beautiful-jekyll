@@ -11,19 +11,34 @@ My name is Richard Ignizio. I have the following qualities:
 - I'm extremely loyal to my family
 
 
-
- I belong to the Paradigm peformance Weightlifting Club
+ I workout at [Paradigm Performaance](http://www.paradigm-fitness.com) and belong to the Paradigm peformance Weightlifting Club
  ___
- 
-## PR's
-### Olypmic Lifts
+
+## Personal Records
+### Lifts
 
 | Movement       | Weight P/k      | Date  |
 | -------------  |:-------------:| -----:|
-| Snatch         | 205 /         |       |
-| Clean          | 255 /         |       |
+| Snatch         | 202.5 /       |       |
+| Clean          | 255.5 /       |       |
 | Clean and Jerk | 235 /         |       |
+| Back Squat     | 350           | 2/17/2016  | 
+| Front Squat    | 315           | 11/17/2016 |
+| OHS            | 215           | 1/04/2017  | 
 
 
 ### Crossfit
 
+| WOD     | Time / Reps | Date       | 
+| ------- | ----------- | ----       | 
+| grace   | 2:37        | 10/31/2016 | 
+
+
+### Open Wods
+| WOD  | Time/Reps  | Date | 
+| ----- | ------ | ----- |  
+| 17.5 | 16.02  | | 
+| 17.4 | | | 
+| 17.3 | 83 ( 7:48) | | 
+| 17.2 | | 
+| 17.1 | | | 
